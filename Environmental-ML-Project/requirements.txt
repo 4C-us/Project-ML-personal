@@ -1,0 +1,10 @@
+pycontrails[ecmwf]
+pandas
+numpy
+pyarrow
+matplotlib
+scikit-learn
+xgboost
+shap
+interpret
+imbalanced-learn

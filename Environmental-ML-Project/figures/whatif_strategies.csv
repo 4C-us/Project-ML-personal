@@ -1,0 +1,4 @@
+strategy,flights rerouted,EF avoided %,fuel change %,extra cost €,€ per TJ avoided
+Oracle (physics),20,43.371,0.882,38154.538,1.976
+ML-targeted,20,32.604,0.733,31735.117,2.186
+Random,20,-3.739,0.03,1295.622,
